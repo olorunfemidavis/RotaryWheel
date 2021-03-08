@@ -9,11 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotaryWheel.Android", "Rota
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotaryWheel.iOS", "RotaryWheel.iOS\RotaryWheel.iOS.csproj", "{1166D8A1-2598-4338-AB57-BFD1CED0A24C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotaryWheel", "RotaryWheel\RotaryWheel.csproj", "{646B94A8-1FBD-4E31-AF6C-94F96A7B3345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotaryWheel", "RotaryWheel\RotaryWheel.csproj", "{646B94A8-1FBD-4E31-AF6C-94F96A7B3345}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B769F57F-794E-44CF-AD1F-597507AC0DF4}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.MD = ReadMe.MD
+		..\..\..\Pictures\wheelo.gif = ..\..\..\Pictures\wheelo.gif
 	EndProjectSection
 EndProject
 Global
