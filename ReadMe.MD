@@ -12,6 +12,8 @@ Spin wheel UI in Xamarin forms
 #SkiaSharp
 #2D
 
+![in action](https://github.com/fzany/RotaryWheel/blob/master/wheelo.gif)
+
 # Todo
 Creation of Nuget package.
 
